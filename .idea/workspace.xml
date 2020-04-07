@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fff557a9-68a7-4f43-8dbb-7269b3d04553" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDndLyabXcJUXaQWOGzCebLCxC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MaxConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codegym.MaxConsecutive" />
+      <module name="Maximum-Consecutive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxConsecutive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fff557a9-68a7-4f43-8dbb-7269b3d04553" name="Default Changelist" comment="" />
+      <created>1586279117273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586279117273</updated>
+      <workItem from="1586279118602" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1554" height="102" key="GridCell.Tab.0.bottom" timestamp="1586279735573">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="102" key="GridCell.Tab.0.bottom/0.27.1600.800@0.27.1600.800" timestamp="1586279735573" />
+    <state width="1554" height="102" key="GridCell.Tab.0.center" timestamp="1586279735572">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="102" key="GridCell.Tab.0.center/0.27.1600.800@0.27.1600.800" timestamp="1586279735572" />
+    <state width="1554" height="102" key="GridCell.Tab.0.left" timestamp="1586279735572">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="102" key="GridCell.Tab.0.left/0.27.1600.800@0.27.1600.800" timestamp="1586279735572" />
+    <state width="1554" height="102" key="GridCell.Tab.0.right" timestamp="1586279735572">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="102" key="GridCell.Tab.0.right/0.27.1600.800@0.27.1600.800" timestamp="1586279735572" />
+    <state x="533" y="185" width="524" height="481" key="extract.method.dialog" timestamp="1586279674833">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state x="533" y="185" width="524" height="481" key="extract.method.dialog/0.27.1600.800@0.27.1600.800" timestamp="1586279674833" />
+  </component>
+</project>
